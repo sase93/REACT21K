@@ -6,7 +6,7 @@
 
 2. Read about [GitHub workflow](https://guides.github.com/introduction/flow/)
 3. Read about [forking projects](https://guides.github.com/activities/forking/)
-4. Read about [difference in forking and cloning](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
+4. Read about [difference in forking and cloning](https://www.toolsqa.com/git/difference-between-git-clone-and-git-fork/)
 
 ## Practice
 
